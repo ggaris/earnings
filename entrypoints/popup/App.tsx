@@ -8,6 +8,9 @@ function App() {
 
 	return (
 		<>
+			<h1 className="text-3xl font-bold underline text-amber-600">
+				Hello world!
+			</h1>
 			<div>
 				<a href="https://wxt.dev" target="_blank" rel="noreferrer">
 					<img src={wxtLogo} className="logo" alt="WXT logo" />
